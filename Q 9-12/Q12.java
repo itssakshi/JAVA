@@ -35,13 +35,9 @@ new Main();
 }
 
 public void actionPerformed(ActionEvent e){
- 
-
-
-Science","88001","ARSD");}
+ new Info("Sakshi", "BSc (Hons)Computer Science","88001","ARSD");}
  
 if(e.getSource()==button1){
-new Info("Sakshi", "BSc (Hons)Computer
 
 if(e.getSource()==button2){ new CGPA("7");
  
